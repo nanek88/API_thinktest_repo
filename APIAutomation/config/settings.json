@@ -1,0 +1,17 @@
+{ 
+  "Contact_List": {
+    "authorization_token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWIyMzllMDIwMTQzMzAwMTM2NjRkZjMiLCJpYXQiOjE3MTIyNzAwMjh9.GVw-rvbBTeO7ZU8O5tWf7Ruz11zftA9dfk-wpJ7k0ng",
+    "api_url": "https://thinking-tester-contact-list.herokuapp.com"
+  },
+  
+  "Users_Endpoints": {
+    "users": "/users",
+    "current_user": "/me",
+    "logout_user": "/logout",
+    "login_user": "/login"
+  },
+  
+  "Contact_Endpoints": {
+    "contacts": "/contacts"
+  }
+}
